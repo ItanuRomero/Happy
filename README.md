@@ -13,6 +13,7 @@
 # Dia 1 - 12/10/2020
 
 ## Para o primeiro dia nos foi apresentado o projeto e os primeiros conhecimentos em REACT, adicionando os conceitos de SPA (Single Page Aplication).
+## Isso sem contar Typescript!! Vimos quais as melhoras que ele apresenta no JavaScript.
 ### Desenvolvemos 2 telas e conhecemos as seguintes tecnologias e técnicas:
 
 - [Babel](https://babeljs.io/)
@@ -31,3 +32,14 @@ Outro mapa haha!
 # Os pontos foram:
 
 ![ImagemDia01](./readmePhotos/dia01.PNG)
+
+# Segue telas que foram criadas:
+
+## Tela inicial:
+![tela01](./readmePhotos/tela01.png)
+## Tela do mapa:
+![tela02](./readmePhotos/tela02.png)
+## O que está por trás:
+![coding01](./readmePhotos/coding01.png)
+
+#### E não se engane, tive dificuldades e demorei horas para poder realizar essas ações, porém sei que consegui aprender, e isso é o que importa!
