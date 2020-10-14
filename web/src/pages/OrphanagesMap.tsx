@@ -8,8 +8,16 @@ import mapMarkerImg from '../images/map-marker.svg';
 import '../styles/pages/orphanages-map.css';
 
 //importando o mapa leaflet
-import { Map, TileLayer } from 'react-leaflet'
+import { Map, TileLayer, Marker, Popup } from 'react-leaflet'
+import Leaflet from 'leaflet'
 import 'leaflet/dist/leaflet.css'
+
+const mapIcon = Leaflet.icon({
+    iconUrl: mapMarkerImg,
+
+    iconSize: [58, 68],
+    iconAnchor: [29, 68],
+})
 
 function OrphanagesMap() {
     return (
@@ -33,6 +41,17 @@ function OrphanagesMap() {
                 >
 
                 <TileLayer url="https://a.tile.openstreetmap.org/{z}/{x}/{y}.png" />
+
+                <Marker
+                    icon= {mapIcon}
+                    position={[ -23.134208, -46.5862656 ]}
+                >
+
+                <Popup closeButton={false} minWidth={240} maxWidth={240}>
+                    lar das meninas e tal
+                </Popup>
+
+                </Marker>
                 
             </Map>
 
