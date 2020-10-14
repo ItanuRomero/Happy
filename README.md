@@ -71,3 +71,10 @@ Banco de dados que carrega diretamente na aplicação.
 ![Imagem Dia 2](./readmePhotos/dia02.png)
 
 # Como toda a parte é um back-end, vou adicionar fotos dos programas Insomnia e BeekeeperStudio fazendo os testes da API e seu banco de dados
+
+## Codando:
+![Imagem codigo](./readmePhotos/coding02.png)
+## Beekeeper:
+![Beekeeper image](./readmePhotos/beekeeper.png)
+## Insomnia:
+![Insomnia image](./readmePhotos/insomnia.png)
