@@ -43,3 +43,31 @@ Outro mapa haha!
 ![coding01](./readmePhotos/coding01.png)
 
 #### E não se engane, tive dificuldades e demorei horas para poder realizar essas ações, porém sei que consegui aprender, e isso é o que importa!
+
+# Dia 2 - 13/10/2020
+
+## O segundo dia foi repleto de desafios, trabalhamos o backe-end completo construindo uma API, a qual receberá e retornará dados independente de qual plataforma estivermos usando (mobile, web), e algumas tecnologias que usamos foram:
+
+- [Insomnia](https://insomnia.rest/)
+Aplicativo para fazer o design, debug e testes de nossa API.
+- [Postman](https://www.postman.com/)
+Ferramenta parecida com a acima, para ter como segunda opção.
+- [Beekeeper Studio](https://www.beekeeperstudio.io/)
+Editor SQL open Source e gerenciador de banco de dados
+- [Yup](https://github.com/jquense/yup)
+Para validação de dados
+- [Express](https://expressjs.com/)
+Usamos bastante este framework também! Pois apresenta utilidades em protocolo HTTP.
+- [Type ORM](https://typeorm.io/#/)
+Um ORM para rodar NODE.js
+e claro:
+- [Node JS](https://nodejs.org/en/)
+Afinal nao poderíamos rodar nada sem ele!
+- [SQLite 3](https://sqlite.org/index.html)
+Banco de dados que carrega diretamente na aplicação.
+
+# Os pontos foram:
+
+![Imagem Dia 2](./readmePhotos/dia02.png)
+
+# Como toda a parte é um back-end, vou adicionar fotos dos programas Insomnia e BeekeeperStudio fazendo os testes da API e seu banco de dados
