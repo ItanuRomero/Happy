@@ -78,3 +78,6 @@ Banco de dados que carrega diretamente na aplicação.
 ![Beekeeper image](./readmePhotos/beekeeper.png)
 ## Insomnia:
 ![Insomnia image](./readmePhotos/insomnia.png)
+
+
+# Dia 3 - 14/10/2020
