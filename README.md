@@ -81,3 +81,29 @@ Banco de dados que carrega diretamente na aplicação.
 
 
 # Dia 3 - 14/10/2020
+
+## O terceiro dia dessa grande maratona foi o mais difícil até agora! Conectamos totalmente o frontend com o backend e compreendemos como funciona esse sistema!
+
+- [Axios](https://github.com/axios/axios)
+Promise based HTTP client for the browser and node.js
+- [Estado e ciclo de vida no react](https://pt-br.reactjs.org/docs/state-and-lifecycle.html)
+A maior parte da aula foi sobre isso!
+
+## os pontos foram:
+
+![Imagem dia 03](./readmePhotos/dia03.png)
+
+### Apenas fizemos as conexões entre as páginas e a API, e concluímos as outras páginas!
+
+![Imagem de criacao de orfanato](./readmePhotos/tela03.png)
+
+# Dia 04 - 15/10/2020
+
+## Esse quarto dia foi mais tranquilo, entendemos as diferenças do react.js para com o React Native, e desenvolvemos a primeira tela do nosso aplicativo!
+
+#### Utilizamos em sua maioria a tecnologia:
+- [Expo](https://expo.io/)
+Uma forma super tranquila de contruir um aplicativo, sendo simples e rápido, assim conseguindo acessar as ferramentas do celular a partir desse micro framework.
+
+## Os pontos foram:
+![Imagem dia 04](./readmePhotos/dia04.png)
